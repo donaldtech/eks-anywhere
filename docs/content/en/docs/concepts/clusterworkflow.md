@@ -23,8 +23,8 @@ After that, the document describes the attributes of the resulting cluster.
 
 Some assets need to be in place before you can create an EKS Anywhere cluster.
 You need to have an Administrative machine that includes the tools required to create the cluster.
-Next, you need get the software tools and artifacts used to build the cluster.
-Then you also need to prepare the provider, in this case a vCenter environment, on which to create the resulting cluster. 
+Next, you need to get the software tools and artifacts used to build the cluster.
+Then you also need to prepare the provider, in this case, a vCenter environment, on which to create the resulting cluster. 
 
 ### Administrative machine
 

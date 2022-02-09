@@ -14,5 +14,5 @@ It will also describe which administrative actions done:
 * Directly in Kubernetes itself (such as adding nodes with `kubectl`)
 * Through the EKS Anywhere API (such as deleting a cluster with `eksctl`).
 
-Note that direct changes to OVAs before nodes are deployed is not yet supported.
+Note that direct changes to OVAs before nodes are deployed are not yet supported.
 However, we are working on a solution for that issue.

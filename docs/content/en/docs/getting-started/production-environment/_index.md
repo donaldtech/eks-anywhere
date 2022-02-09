@@ -3,7 +3,7 @@ title: "Create production cluster"
 weight: 40
 ---
 
-EKS Anywhere supports a vSphere provider for production grade EKS Anywhere deployments.
+EKS Anywhere supports a vSphere provider for production-grade EKS Anywhere deployments.
 EKS Anywhere allows you to provision and manage Amazon EKS on your own infrastructure.
 
 This document walks you through setting up EKS Anywhere in a way that:
